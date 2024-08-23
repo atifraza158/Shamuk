@@ -1,0 +1,1 @@
+const String appLogo = "assets/images/png/shamuk_new_logo.png";
